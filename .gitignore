@@ -1,0 +1,4 @@
+.venv
+tests
+rockpaperscissors/__init__.py
+./projects/poetry-demo
